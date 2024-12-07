@@ -11,7 +11,7 @@ Interactive Filters: Includes filters for time period, product category, region,
 ⚙️ Tools and Technologies Power BI:
 For creating and visualizing the dashboard Data Transformation: Power Query was used for cleaning and structuring the raw data DAX (Data Analysis Expressions): For creating calculated columns and measures Microsoft Excel/CSV: As a source for raw data
 
-###Dashboard Insights:
+```Dashboard Insights:
 
 🚧 Prerequisites
 Before you begin, ensure you have met the following requirements:
@@ -19,5 +19,6 @@ Before you begin, ensure you have met the following requirements:
 word 
 Power Bi
 Excel
-🛠️ Installation
+🛠️```Installation
+
 https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop
