@@ -7,6 +7,7 @@ Customer Demographics: Presents insights into customer location, age groups, and
 Sales Trends: Shows time-based trends in sales, such as monthly or seasonal performance.
 Region-Based Analysis: Compares sales performance across different regions or stores.
 Interactive Filters: Includes filters for time period, product category, region, and customer segments.
+
 ⚙️ Tools and Technologies Power BI: For creating and visualizing the dashboard Data Transformation: Power Query was used for cleaning and structuring the raw data DAX (Data Analysis Expressions): For creating calculated columns and measures Microsoft Excel/CSV: As a source for raw data
 
 Dashboard Insights
