@@ -1,3 +1,4 @@
+# Superstore sales dashboard 
 The superstore Sales Dashboard is a Power BI project designed to analyze and visualize sales data for a selling business. It provides insights into key performance indicators (KPIs), sales trends, customer demographics, and product performance to help stakeholders make informed decisions.
 
 📝 Features
@@ -16,9 +17,12 @@ For creating and visualizing the dashboard Data Transformation: Power Query was 
 🚧 Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-word 
-Power Bi
-Excel
+* word 
+
+* Power Bi
+
+* Excel
+
 🛠️Installation
 ```
 https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop
