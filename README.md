@@ -8,9 +8,10 @@ Sales Trends: Shows time-based trends in sales, such as monthly or seasonal perf
 Region-Based Analysis: Compares sales performance across different regions or stores.
 Interactive Filters: Includes filters for time period, product category, region, and customer segments.
 
-⚙️ Tools and Technologies Power BI: For creating and visualizing the dashboard Data Transformation: Power Query was used for cleaning and structuring the raw data DAX (Data Analysis Expressions): For creating calculated columns and measures Microsoft Excel/CSV: As a source for raw data
+⚙️ Tools and Technologies Power BI:
+For creating and visualizing the dashboard Data Transformation: Power Query was used for cleaning and structuring the raw data DAX (Data Analysis Expressions): For creating calculated columns and measures Microsoft Excel/CSV: As a source for raw data
 
-Dashboard Insights
+###Dashboard Insights:
 
 🚧 Prerequisites
 Before you begin, ensure you have met the following requirements:
